@@ -1,0 +1,6 @@
+{
+  "appId": "com.akhele.todos",
+  "appName": "ToDos",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
